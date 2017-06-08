@@ -76,11 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CssSelectorsLocator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CssSelectorsLocator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumMethods/CssSelectorsLocator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomizedXpath.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumMethods/CustomizedXpath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/test/java/SeleniumMethods/HandlingMultipleWindows.java" />
         <option value="$PROJECT_DIR$/src/test/java/SeleniumMethods/handle_Javascript.java" />
         <option value="$PROJECT_DIR$/src/test/java/SeleniumMethods/CssSelectorsLocator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SeleniumMethods/CustomizedXpath.java" />
       </list>
     </option>
   </component>
@@ -305,7 +318,7 @@
       <recent name="G:\PROJECTS\Without git\OnlineStore\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CssSelectorsLocator">
+  <component name="RunManager" selected="Application.CustomizedXpath">
     <configuration default="false" name="MultipleSameWebElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -314,26 +327,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="SeleniumMethods.MultipleSameWebElements" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="OnlineStore" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="HandlingAjaxMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SeleniumMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="SeleniumMethods.HandlingAjaxMouse" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -394,6 +387,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="SeleniumMethods.CssSelectorsLocator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OnlineStore" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CustomizedXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SeleniumMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="SeleniumMethods.CustomizedXpath" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -740,18 +753,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.MultipleSameWebElements" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HandlingAjaxMouse" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HandlingMultipleWindows" />
-      <item index="3" class="java.lang.String" itemvalue="Application.handle_Javascript" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CssSelectorsLocator" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HandlingMultipleWindows" />
+      <item index="2" class="java.lang.String" itemvalue="Application.handle_Javascript" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CssSelectorsLocator" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CustomizedXpath" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CssSelectorsLocator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.handle_Javascript" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HandlingMultipleWindows" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MultipleSameWebElements" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HandlingAjaxMouse" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CustomizedXpath" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CssSelectorsLocator" />
+        <item index="2" class="java.lang.String" itemvalue="Application.handle_Javascript" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HandlingMultipleWindows" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MultipleSameWebElements" />
       </list>
     </recent_temporary>
   </component>
@@ -1040,6 +1053,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SeleniumMethods/CustomizedXpath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
