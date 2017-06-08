@@ -5,10 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-/**
- * Created by subbu on 07/06/2017.
- */
-public class handle_Javascript {
+public class JavascriptHandler {
 
     public static void main(String[] args) throws InterruptedException {
         WebDriver driver= new FirefoxDriver();

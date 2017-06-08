@@ -4,9 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-/**
- * Created by subbu on 08/06/2017.
- */
+
 public class CssSelectorsLocator {
 
     public static void main(String[] args) {
